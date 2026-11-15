@@ -1,2 +1,22 @@
-# c-menu-driven-calculator
-A simple calculator built using C programming language which takes user input and performs mathematical functions.
+C-Menu-Driven-Calculator
+My first year engineering C programming project.
+
+FEATURES:
+->Addition
+->Subtraction
+->Multiplication
+->Division
+
+CONCEPTS USED:
+->C programming
+->Functions
+->Switch case
+->Loops
+->Conditional statements
+
+PURPOSE:
+Created to practice and strengthen my C programming fundamentals.
+
+LANGUAGE:
+C
+
