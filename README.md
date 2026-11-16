@@ -6,6 +6,7 @@ FEATURES:
 ->Subtraction
 ->Multiplication
 ->Division
+->Modulus
 
 CONCEPTS USED:
 ->C programming
